@@ -45,5 +45,69 @@ Historico computador -> computar (Calcular)
           
           
   
+  ->Logica (Foi descoberta, raciocinio logico, formalizado)
+  		->Aristoteles
+		->Logica aristoterica ( Racionalidade, Silogismo)
+		->Conjunto de regras racionais (obtencao de um conhecimento)
+		->Validade formal das proposicoes linguisticas e matematicas
+		
+		
+		->Consiste na construcao racional e coerente do raciocionio.
+		
+		
+		->Logica Computacional
+			->Logica Algebrica
+			1950-1960 -> Previam a evolucao para uma capacidade de pensar, ou seja
+			inteligencia artificial.
+			
+			->Logica , relacionado com a contrucao de softwares e hardwares.
+			
+			
+		
+->Hardware
+	->parte tangivel do computador(fisico)
+	->Fisico
+	->Sistema de entrega de software
+	->4 Categorias (I , O , Componentes internos , Armazenamento secundario)  
+	->Estraga com o tempo
+	->utiliza materiais eletronicos
+	->Nao e atacado diretamente por virus
+	->(FALHA) Falha aleatoria
+	
+->Software
+	->parte intangivel do computador (programas)
+	->Logico
+	->Executado para executar uma tarefa especifica
+	->Software sistema, software aplicativo
+	->Pode se tornar desatualizado
+	->Criado por codigos e linguagens de programacao
+	->Pode ser atacado por virus
+	->(FALHA) Sistematica, nao muda de acordo com o tempo
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
   
   
