@@ -74,7 +74,7 @@ Historico computador -> computar (Calcular)
 	->Nao e atacado diretamente por virus
 	->(FALHA) Falha aleatoria
 	
-->Software
+->Software (Conjunto de Instrucoes dadas a um computador , de modo que ele execute determinada tarefa)
 	->parte intangivel do computador (programas)
 	->Logico
 	->Executado para executar uma tarefa especifica
@@ -84,8 +84,43 @@ Historico computador -> computar (Calcular)
 	->Pode ser atacado por virus
 	->(FALHA) Sistematica, nao muda de acordo com o tempo
 		
+	
+	->Software de Sistemas -> Sistema Operacional (SO)
+	->Driver de Dispositivos (Software de Sistema)
+	->Softeare de Aplicativo( Editor imagem, navegador, editor de texto)
+	
+	
+->Linguagem de Programacao
+	-> Sequencia de comandos (escrita utilizando uma linguagem de programacao)
+	
+	->Compiladas (Codigo Fonte (Alto Nivel) -> Compilador -> Codigo Objeto (Linguagem Assembly)-> Executador(Linguagem de maquina) ->Resultado)
+		Ou seja traducao entre linguagem A para linguagem de maquina que o processador entenda.
+		->Codigo fonte e executado diretamente pelo sistema operacional ( ou processador)
+		->Compilacao ( Uso do Compilador)
+			->Assembly ( composto por comandos simples -> voce sabe exatamente o que o processador esta fazendo)
+			->Assembler -> Executador -> Programa que le o arquivo contendo os comandos simples da linguagem Assembly e transforma em linguagem de maquina.
 		
-
+	->Interpretadas (Codigo Fonte -> Interpretador -> Resultado)
+		->Linguagem executado por um interpretador, que e executado pelo sistema operacional ou processador.
+		->Javascript -> browser interpreta, sistema operacional executa o software
+		
+		
+	
+	
+	Linguagem Compilada (Traducao apenas 1 vez)
+		COMPILACAO
+		-> Programa Fonte -> Compilador -> Programa Objeto 
+		EXECUCAO
+		-> Dados de Entrada -> Programa Objeto -> Saida
+		
+	
+	Linguagem Interpretada (Traducao a todo momento)
+		-> Programa Fonte -> 
+					Interpretador ->Saida
+		-> Dados Entrada  ->
+	
+	
+	
 		
 		
 		
